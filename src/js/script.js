@@ -44,7 +44,7 @@
                 const idBook = thisBook.booksList.getAttribute('data-id');
                 favoriteBooks.push(idBook);
             });
-        } 
+        }  
     }
     render();
     initActions();
